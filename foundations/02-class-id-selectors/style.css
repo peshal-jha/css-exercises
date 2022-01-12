@@ -1,0 +1,20 @@
+.odd-ones {
+    background-color: #dfa38c;
+    font: Verdana, sans-serif;
+}
+
+.odd-ones.cooler {
+    font-size: 24px;
+}
+
+#first {
+    color: #0808ee;
+    font-size: 36px;
+}
+
+
+#second {
+    background-color: #6fe664;
+    font-size: 24px;
+    font-weight: bold;
+}
